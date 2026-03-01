@@ -7,7 +7,7 @@
 ## Social 
 - Discord: `@hifindme` 
 - Tiktok: `@.x0tea`
-- 
+  
 ## Info 
 - Discord might get termed later, been termed around 21 times.
 - Mostly main GO and Python
