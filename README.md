@@ -1,8 +1,8 @@
-## About me(me)
-- I use Arch.
-- Grass is out of the question
-- I use vscode
+## About me (me ofc)
+- I use Arch|Debian|Win11
+- I use VsCode, Pycharm
+- I like code geass.
 
 ## Social 
-- Discord: `@vixlety`
-- Tiktok: `@vxv.sora`
+- Discord: `@hifindme`
+- Tiktok: `@.x0tea`
