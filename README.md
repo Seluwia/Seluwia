@@ -5,8 +5,8 @@
 - 14 btw
 
 ## Social 
-- Discord: `@especiallycc` 
-- Tiktok: `@.x0tea`
+- Discord: `@Seluwia` 
+- Tiktok: `@seluwia`
   
 ## Info 
 - Discord might get termed later, been termed around 21 times.
