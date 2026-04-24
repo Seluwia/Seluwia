@@ -2,7 +2,6 @@
 - I use Arch|Debian|Win11
 - I use VsCode, Pycharm
 - I like code geass.
-- 14 btw
 
 ## Social 
 - Discord: `@Seluwia` 
