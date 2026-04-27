@@ -1,12 +1,10 @@
-## About me (me ofc)
-- I use Arch|Debian|Win11
-- I use VsCode, Pycharm
-- I like code geass.
+## Who am I?
+- Just a person trying not to complicate things and make them worse.
 
 ## Social 
 - Discord: `@Seluwia` 
-- Tiktok: `@seluwia`
+- Tiktok: `@Seluwia`
   
-## Info 
-- Discord might get termed later, been termed around 21 times.
-- Mostly main GO and Python
+## Note.
+- My discord account might vary depending on the age i've had the discord.
+- Users of my profiles might very aswell.
